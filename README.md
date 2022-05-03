@@ -66,7 +66,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 [] 5-6: _Projeto - Lista de tarefas_
 
-:black_large_square: 5-7: _Projeto Bônus - Meme Generator_
+[] 5-7: _Projeto Bônus - Meme Generator_
 
 :black_large_square: 5-7: _Projeto Bônus - Adivinhe a cor_
 
